@@ -7,7 +7,7 @@
 
 [[redirects]]
 	from = "/de/*"
-	to = "/"
+	to = "https://playerdash.id"
 	status = 302
 	force = true
 	conditions = {Language = ["en"]}
