@@ -5,7 +5,7 @@
 	conditions = {Language = ["de"]}
 
 [[redirects]]
-	from = "/de"
+	from = "/de/"
 	to = "/"
 	status = 302
 	conditions = {Language = ["en"]}
