@@ -1,11 +1,11 @@
 [[redirects]]
-	from = "https://playerdash.id"
-	to = "https://playerdash.id/de"
+	from = "/"
+	to = "/de"
 	status = 302
 	conditions = {Language = ["de"]}
 
 [[redirects]]
-	from = "https://playerdash.id/de"
-	to = "https://playerdash.id"
+	from = "/de"
+	to = "/"
 	status = 302
 	conditions = {Language = ["en"]}
